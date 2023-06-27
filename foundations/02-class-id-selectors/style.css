@@ -1,0 +1,23 @@
+.classOne,
+.classTwo,
+.classThree {
+    background-color: lightpink;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+    }
+
+/* should have used a single Class for all three of those to save code */
+
+#idOne {
+    color: blue;
+    font-size: 36px;
+}
+
+.classTwo {
+    font-size: 24px;
+}
+
+#idTwo {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
